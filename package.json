@@ -1,0 +1,19 @@
+{
+  "name": "truck_shop_search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-geocoder": "^4.4.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "pg": "^8.16.0",
+    "uuid": "^9.0.1"
+  }
+}
